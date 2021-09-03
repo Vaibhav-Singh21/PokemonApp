@@ -1,6 +1,9 @@
 # PokemonApp
- A react app that shows all the pokemon using an Api.
-## the link the Pokemon API
+
+### [Live Site](https://pokemon-world-ind.netlify.app/)
+
+## Introduction
+A react app that shows all the pokemon using an Api, the link the Pokemon API
   https://pokeapi.co/
   
   ### Axios get Link
