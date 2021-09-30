@@ -1,4 +1,4 @@
-# PokemonApp
+# *PokemonApp*
 
 ### [Live Site](https://pokemon-world-ind.netlify.app/)
 
